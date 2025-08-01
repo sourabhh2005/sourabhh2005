@@ -1,27 +1,4 @@
 <!-- 🚀 Profile README for sourabhh2005 - PH Dashboard Edition -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00FF9F&center=true&vCenter=true&multiline=true&width=800&height=60&lines=👋+Hi,+I'm+Sourabh+Singh+Rathore!;Welcome+to+My+Modern+Dashboard+Portfolio" />
-  <br />
-  <img src="https://img.icons8.com/color/96/000000/rocket.png" style="margin-top: 10px;" alt="Rocket Icon" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/B.Tech-AI+%26+DS-00FF9F?style=for-the-badge" alt="B.Tech Badge" />
-  <img src="https://img.shields.io/badge/Product+Hunt-Dashboard-F47C2E?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt Badge" />
-  <img src="https://img.shields.io/badge/Open+to-Collaboration-ff69b4?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration Badge" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.icons8.com/color/96/dashboard.png" alt="Dashboard Icon" />
-  <br />
-  <b><i>A modern, visually stunning dashboard — blending AI, code, and creative design!</i></b>
-</div>
-
 ---
 
 ## 🧑‍💻 **Sourabh Singh Rathore**
