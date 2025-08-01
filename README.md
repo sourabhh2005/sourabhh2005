@@ -1,7 +1,9 @@
 <!-- 🚀 Profile README for sourabhh2005 - PH Dashboard Edition -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00FF9F&center=true&vCenter=true&multiline=true&width=800&height=60&lines=👋+Hi,+I'm+Sourabh+Singh+Rathore!;AI+%7C+Full-Stack+Dev+%7C+Product+Hunt+Dashboard+Creator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00FF9F&center=true&vCenter=true&multiline=true&width=800&height=60&lines=👋+Hi,+I'm+Sourabh+Singh+Rathore!;Welcome+to+My+Modern+Dashboard+Portfolio" />
+  <br />
+  <img src="https://img.icons8.com/color/96/000000/rocket.png" style="margin-top: 10px;" />
 </div>
 
 ---
@@ -14,58 +16,50 @@
 
 ---
 
-## 🏠 Welcome to My Modern GitHub PH Dashboard!
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,java,nodejs,express,mongodb,git,github,figma,vite,python,opencv" />
-</p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhh2005&show_icons=true&theme=react&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhh2005&layout=compact&theme=react&hide_border=true" height="150"/>
+  <img src="https://github.com/sourabhh2005/sourabhh2005/blob/main/assets/3d-dashboard.png" alt="3D Dashboard" height="200"/>
+  <br />
+  <b><i>A modern, visually stunning dashboard — blending AI, code, and creative design!</i></b>
 </div>
 
 ---
 
-## 🌟 Featured Products & Projects
+## 🧑‍💻 Introduction
+
+Hi, I'm **Sourabh Singh Rathore** — a passionate AI & Full-Stack developer with a knack for building modern web products, visually appealing dashboards, and creative user interfaces. I'm always exploring the intersection of AI, design, and web technology to create magical experiences.
+
+---
+
+## 🌟 Current PH Dashboard Projects
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/brain.png" />
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/3d-fluency/64/portfolio.png" alt="Portfolio"/>
       <br />
-      <b>AURA</b>
+      <b>Portfolio</b>
       <br />
-      <i>AI-powered media editor (SaaS)</i>
+      <i>My personal portfolio, showcasing projects and skills in a modern, interactive style.</i>
       <br />
-      <code>React • Tailwind • AI APIs</code>
+      <code>Next.js • React • TailwindCSS • 3D/2D Animations</code>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/controller.png" />
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/3d-fluency/64/artificial-intelligence.png" alt="AI Summarizer"/>
       <br />
-      <b>AirCTRL</b>
+      <b>AI Summarizer</b>
       <br />
-      <i>Gesture + Voice controlled PC system</i>
+      <i>AI-powered tool to summarize articles and web content instantly.</i>
       <br />
-      <code>Python • OpenCV • MediaPipe</code>
+      <code>React • OpenAI API • TypeScript</code>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/shopping-cart.png" />
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/3d-fluency/64/web-design.png" alt="Obys Agency Clone"/>
       <br />
-      <b>Kirana Store</b>
+      <b>Obys Agency Clone</b>
       <br />
-      <i>Full-stack grocery e-commerce app</i>
+      <i>A visually rich clone inspired by Obys Agency, with creative layouts and animations.</i>
       <br />
-      <code>MERN • Stripe • JWT</code>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/online-video.png" />
-      <br />
-      <b>Realtime Chat + Share</b>
-      <br />
-      <i>Zoom + AnyDesk inspired video & screen app</i>
-      <br />
-      <code>Node.js • Socket.io • Peer.js</code>
+      <code>React • GSAP • Framer Motion • Styled Components</code>
     </td>
   </tr>
 </table>
@@ -76,6 +70,23 @@
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,mongodb,git,github,figma,python,vite,gsap,framer" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhh2005&show_icons=true&theme=react&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhh2005&layout=compact&theme=react&hide_border=true" height="150"/>
+</div>
+
+---
+
 ## 🏆 Achievements, Streaks & Trophies
 
 <div align="center">
@@ -83,17 +94,6 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=sourabhh2005&theme=flat&no-frame=true&margin-w=10&column=7" />
 </div>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Artificial Intelligence & Data Science
-- 💻 Building impactful Web Apps, AI Projects, and Creative UI/UX
-- 🔍 Exploring Next.js, TypeScript, OpenCV, Voice & Gesture Interfaces
-- 🧠 Mastering DSA in Java & real-world projects
-- ✨ Always curious, always learning!
-- 🏆 Building modern PH dashboards to showcase products beautifully
 
 ---
 
@@ -119,6 +119,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/rocket.png"/>
+  <img src="https://github.com/sourabhh2005/sourabhh2005/blob/main/assets/2d-cube.gif" alt="2D Cube Animation" height="120"/>
+  <br />
   <h3>Thanks for stopping by! <br/> Dive into my dashboard, check out my products, and let’s build something amazing together!</h3>
 </div>
