@@ -1,104 +1,107 @@
-<!-- 🚀 Profile README for sourabhh2005 - PH Dashboard Edition -->
+<!-- 🚀 Profile README for Sourabh Singh Rathore - GitHub Dashboard -->
+
+<h1 align="center">
+  <img src="https://img.icons8.com/fluency/96/source-code.png" width="50"/>
+  Hey, I'm <span style="color:#FF5733;">Sourabh Singh Rathore</span> 👋
+</h1>
+
+<p align="center">
+  🔥 Passionate AI & Full-Stack Developer | Creative UI Designer | Indie Maker
+  <br />
+  🚀 Turning complex ideas into beautiful, functional products
+</p>
+
 ---
 
-## 🧑‍💻 **Sourabh Singh Rathore**
-
-Hi, I'm **Sourabh Singh Rathore** — a passionate AI & Full-Stack developer with a knack for building modern web products, visually appealing dashboards, and creative user interfaces. I'm always exploring the intersection of AI, design, and web technology to create magical experiences.
-
----
-
-## 🌟 Current PH Dashboard Projects
+## 🚧 Currently Working On
 
 <table>
   <tr>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/portfolio.png" alt="Portfolio"/>
-      <br />
-      <b>Portfolio</b>
-      <br />
-      <i>My personal portfolio, showcasing projects and skills in a modern, interactive style.</i>
-      <br />
-      <code>Next.js • React • TailwindCSS • Animations</code>
+      <br /><b>Portfolio</b>
+      <br /><i>Modern interactive portfolio showcasing my work and skills.</i>
+      <br /><code>Next.js • TailwindCSS • Animations</code>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="AI Summarizer"/>
-      <br />
-      <b>AI Summarizer</b>
-      <br />
-      <i>AI-powered tool to summarize articles and web content instantly.</i>
-      <br />
-      <code>React • OpenAI API • TypeScript</code>
+      <br /><b>AI Summarizer</b>
+      <br /><i>AI tool to summarize articles instantly using OpenAI.</i>
+      <br /><code>React • TypeScript • OpenAI API</code>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/agency.png" alt="Obys Agency Clone"/>
-      <br />
-      <b>Obys Agency Clone</b>
-      <br />
-      <i>A visually rich clone inspired by Obys Agency, with creative layouts and animations.</i>
-      <br />
-      <code>React • GSAP • Framer Motion • Styled Components</code>
+      <img src="https://img.icons8.com/fluency/96/agency.png" alt="Obys Clone"/>
+      <br /><b>Obys Agency Clone</b>
+      <br /><i>Creative layout and GSAP animation rich UI clone.</i>
+      <br /><code>React • GSAP • Framer Motion</code>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  🔗 <b><a href="https://github.com/sourabhh2005?tab=repositories">Explore all my projects!</a></b>
+  🔗 <a href="https://github.com/sourabhh2005?tab=repositories"><b>Explore all my projects</b></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,mongodb,git,github,figma,python,vite,gsap,framer" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,mongodb,git,github,figma,python,vite,gsap,framer" alt="Tech stack icons" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhh2005&show_icons=true&theme=react&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhh2005&layout=compact&theme=react&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhh2005&show_icons=true&theme=react&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhh2005&layout=compact&theme=react&hide_border=true" height="150" />
 </div>
 
 ---
 
-## 🏆 Achievements, Streaks & Trophies
+## 🔥 Streaks & Achievements
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhh2005&theme=react&hide_border=true" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhh2005&theme=react&hide_border=true" height="160"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sourabhh2005&theme=flat&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sourabhh2005&theme=flat&no-frame=true&margin-w=10&column=7" />
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourabh-singh-rathore" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn Icon"/> LinkedIn</a>
-  <a href="mailto:sourabhh2005@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail Icon"/> Gmail</a>
-  <a href="https://github.com/sourabhh2005"><img src="https://img.icons8.com/ios-filled/48/github.png" alt="GitHub Icon"/> GitHub</a>
-  <a href="https://producthunt.com/@sourabhh2005" target="_blank"><img src="https://img.icons8.com/color/48/product-hunt.png" alt="Product Hunt Icon"/> Product Hunt</a>
+  <a href="https://www.linkedin.com/in/sourabh-singh-rathore" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/> LinkedIn
+  </a> &nbsp;
+  <a href="mailto:sourabhh2005@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/> Gmail
+  </a> &nbsp;
+  <a href="https://github.com/sourabhh2005" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/github.png" alt="GitHub"/> GitHub
+  </a> &nbsp;
+  <a href="https://producthunt.com/@sourabhh2005" target="_blank">
+    <img src="https://img.icons8.com/color/48/product-hunt.png" alt="Product Hunt"/> Product Hunt
+  </a>
 </p>
 
 ---
 
-## 🎉 Fun Facts & Philosophy
+## 🧩 About Me
 
-<ul>
-  <li>🧪 I love blending AI and UI for magical experiences</li>
-  <li>🎯 Goal: Build tools that <b>feel</b> magical</li>
-  <li>🧩 <i>"Code is poetry, UI is the voice"</i></li>
-  <li>💡 Motto: Keep building. Keep shipping. Keep growing 🚀</li>
-  <li>🤝 Open for collaboration, mentorship, and product launches!</li>
-</ul>
+- 🔭 I love blending AI and frontend to create mind-blowing user experiences  
+- 🎯 Focused on building fast, modern, and lightweight tools  
+- 🧠 Curious about everything from ML to design systems  
+- 📚 Currently diving deep into DSA + Java & building SaaS side-projects  
+- 🤝 Open to collaborations, internships, or startup ideas
 
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/rocket.png" alt="Rocket Animation"/>
-  <br />
-  <h3><b>Thanks for stopping by!<br/> Dive into my dashboard, check out my products, and let’s build something amazing together!</b></h3>
+  <img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/>
+  <br/>
+  <b>Thanks for stopping by!<br/>Check out my projects and let’s build something epic 🚀</b>
 </div>
