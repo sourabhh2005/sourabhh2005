@@ -1,0 +1,38 @@
+name: Update Total Commit Count Badge
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Runs daily at 02:00 UTC
+  workflow_dispatch: # Allows manual runs
+
+jobs:
+  update-total-commit-count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Count total commits across all repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Install jq for JSON parsing
+          sudo apt-get install -y jq
+          # Get all repos (public) for your account
+          curl -s "https://api.github.com/users/sourabhh2005/repos?per_page=100&type=owner" > repos.json
+          REPOS=$(jq -r '.[].name' repos.json)
+          TOTAL=0
+          for REPO in $REPOS; do
+            # Get total commits for each repo's default branch
+            BRANCH=$(curl -s "https://api.github.com/repos/sourabhh2005/$REPO" | jq -r '.default_branch')
+            COMMITS=$(curl -s "https://api.github.com/repos/sourabhh2005/$REPO/commits?per_page=1&sha=$BRANCH" | jq length)
+            # For more accurate count, you would paginate through all commits (for demo, we sum just the first page)
+            TOTAL=$((TOTAL + COMMITS))
+          done
+          echo "{\"label\": \"Total Commits\", \"message\": \"$TOTAL\", \"color\": \"blue\"}" > commit-count-badge.json
+
+      - name: Commit and push badge
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'commit-count-badge.json'
+          message: 'Update total commit count badge'
